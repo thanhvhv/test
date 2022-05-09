@@ -1,5 +1,0 @@
-4 . Settle and gettle
-We can only indirectly access the class, because some cases need to be secure. 
-Or is it easy to maintain to update the value according to the original set of logic rules
-5.
-Perfectly fine because we can create a new dvd with many parameter options
