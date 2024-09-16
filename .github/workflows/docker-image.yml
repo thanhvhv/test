@@ -17,7 +17,7 @@ jobs:
     - name: Docker Build & Push Action            
       uses: mr-smithers-excellent/docker-build-push@v6.4  
       with:
-        image: repo/image
+        image: thanhvhv/test
         tags: latest
         registry: docker.io
         dockerfile: docker/Dockerfile
